@@ -1,0 +1,10 @@
+extension["八班杀"]={
+	intro:"114514",
+	author:"空中楼阁",
+	netdisk:"",
+	forum:"",
+	version:"1.0",
+	files:["extension.js","Goth.jpg","navy.jpg","百血白板.jpg","翻山.jpg","木子心兑.jpg",
+		"手乒团队.jpg","四血摸八.jpg","维罗妮卡.jpg","易文.jpg","元素风暴.png"],
+	size:"58MB"
+};
